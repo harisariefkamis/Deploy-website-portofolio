@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../Build Portofolio"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "generate website"
+  }
+}
