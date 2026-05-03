@@ -1,6 +1,9 @@
-# Deploy-website-portofolio
-Deploy website portofolio data analyst ke github pages menggunkan Python-Html-css-js dengan bantuan github local untuk mengaktifkan hosting gratis.
-# 🚀 Haris Arief Kamis — Data Analyst Portfolio
+## 🚀 Haris Arief Kamis — Data Analyst Portfolio
+
+## Deskripsi Portofolio
+Website portofolio data analyst terdiri dari beberapa bagian penting. Bagian pertama adalah Hero — halaman pembuka yang menampilkan nama, peran profesional, dan ringkasan singkat tentang dirimu, dilengkapi foto profil dan angka-angka pencapaian utama.
+Bagian About menceritakan latar belakangmu secara lebih mendalam — dari mana kamu berasal, perjalanan karir, pendidikan, dan apa yang mendorongmu memilih bidang data. Bagian Skills menampilkan kemampuan teknis dalam bentuk visual seperti bar chart atau radar chart sehingga mudah dipahami sekilas pandang.
+Bagian Projects adalah yang paling krusial — menampilkan tiga hingga lima project terbaik lengkap dengan deskripsi masalah yang diselesaikan, metode yang digunakan, dan dampak nyata yang dihasilkan. Setiap project dilengkapi tautan ke repository GitHub dan demo jika ada. Bagian Tools menampilkan semua teknologi yang kamu kuasai, dan bagian Contact menyediakan cara mudah bagi orang yang tertarik untuk menghubungimu.
 
 > **GitHub Pages**
 
@@ -22,7 +25,7 @@ Deploy website portofolio data analyst ke github pages menggunkan Python-Html-cs
 
 ---
 
-## 📁 Struktur File
+## 📁 Struktur Project
 
 ```
 portfolio/
@@ -34,7 +37,7 @@ portfolio/
 
 ---
 
-## 🚀 Cara Deploy ke GitHub Pages (Step by Step)
+## 🚀 Deploy ke GitHub Pages
 
 ### Langkah 1 — Buat Repository GitHub
 
