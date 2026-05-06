@@ -1,7 +1,7 @@
 ## 🚀Data Analyst Portfolio
 
 ## Deskripsi Portofolio
-Saya membangun beberapa infrastruktur website portofolio data analyst terdiri dari beberapa Bagian:
+Saya membangun beberapa infrastruktur website portofolio data analyst terdiri dari beberapa bagian:
 
 ## infrastruktur Project
 
