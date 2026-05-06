@@ -3,8 +3,9 @@
 ## Deskripsi Portofolio
 Saya membangun beberapa infrastruktur website portofolio data analyst terdiri dari beberapa Bagian:
 
-[**ABOUT** ---> Nama,disiplin ilmu,Riwayat hidup]
-[**SKILL** ---> Latar Belakang,Karir,Pendidikan dan kemampuan teknis
+## infrastruktur Project
+**ABOUT** ---> Nama,disiplin ilmu,Riwayat hidup
+**SKILL** ---> Latar Belakang,Karir,Pendidikan dan kemampuan teknis
 **Education** ---> Latar Belakang pendidikan
 **Sertificate** ---> Myskill.DQLAB,KOMDIGI,DICODING
 **Project** ---> Teori,tools,metode,implementasi
