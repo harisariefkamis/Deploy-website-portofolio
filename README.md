@@ -4,13 +4,13 @@
 Saya membangun beberapa infrastruktur website portofolio data analyst terdiri dari beberapa Bagian:
 
 ## infrastruktur Project
-**ABOUT** ---> Nama,disiplin ilmu,Riwayat hidup
-**SKILL** ---> Latar Belakang,Karir,Pendidikan dan kemampuan teknis
-**Education** ---> Latar Belakang pendidikan
-**Sertificate** ---> Myskill.DQLAB,KOMDIGI,DICODING
-**Project** ---> Teori,tools,metode,implementasi
-**Organisasi** ---> Pengalaman,pengabdian,Dampak
-**Contact** ---> media sosial header
+| **ABOUT** ---> | Nama,disiplin ilmu,Riwayat hidup |
+| **SKILL** ---> | Latar Belakang,Karir,Pendidikan dan kemampuan teknis |
+| **Education** ---> | Latar Belakang pendidikan |
+| **Sertificate** ---> |   Myskill.DQLAB,KOMDIGI,DICODING |
+| **Project** ---> | Teori,tools,metode,implementasi |
+| **Organisasi** ---> | Pengalaman,pengabdian,Dampak |
+|**Contact** ---> | media sosial header |
 
 
 > **GitHub Pages**
@@ -38,8 +38,8 @@ Saya membangun beberapa infrastruktur website portofolio data analyst terdiri da
 ```
 portfolio/
 │
-├── index.html          ← File utama portfolio (satu file all-in-one)
-├── README.md           ← Dokumentasi ini
+├── index.html          ← File utama portfolio
+├── README.md           ← Dokumentasi Project
 └── generate_portfolio.py  ← Script Python untuk update data otomatis
 ```
 
