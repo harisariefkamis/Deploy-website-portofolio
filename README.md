@@ -2,8 +2,10 @@
 
 ## Deskripsi Portofolio
 Saya membangun beberapa infrastruktur website portofolio data analyst terdiri dari beberapa Bagian:
+---
 
 ## infrastruktur Project
+|---|---|
 | **ABOUT** ---> | Nama,disiplin ilmu,Riwayat hidup |
 | **SKILL** ---> | Latar Belakang,Karir,Pendidikan dan kemampuan teknis |
 | **Education** ---> | Latar Belakang pendidikan |
@@ -12,7 +14,7 @@ Saya membangun beberapa infrastruktur website portofolio data analyst terdiri da
 | **Organisasi** ---> | Pengalaman,pengabdian,Dampak |
 |**Contact** ---> | media sosial header |
 
-
+---
 > **GitHub Pages**
 
 [![Deploy Status](https://img.shields.io/badge/Deploy-GitHub%20Pages-00e5ff?style=flat-square&logo=github)](https://harisariefkamis.github.io)
