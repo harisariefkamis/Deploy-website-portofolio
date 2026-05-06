@@ -1,9 +1,16 @@
-## 🚀 Haris Arief Kamis — Data Analyst Portfolio
+## 🚀Data Analyst Portfolio
 
 ## Deskripsi Portofolio
-Website portofolio data analyst terdiri dari beberapa bagian penting. Bagian pertama adalah Hero — halaman pembuka yang menampilkan nama, peran profesional, dan ringkasan singkat tentang dirimu, dilengkapi foto profil dan angka-angka pencapaian utama.
-Bagian About menceritakan latar belakangmu secara lebih mendalam — dari mana kamu berasal, perjalanan karir, pendidikan, dan apa yang mendorongmu memilih bidang data. Bagian Skills menampilkan kemampuan teknis dalam bentuk visual seperti bar chart atau radar chart sehingga mudah dipahami sekilas pandang.
-Bagian Projects adalah yang paling krusial — menampilkan tiga hingga lima project terbaik lengkap dengan deskripsi masalah yang diselesaikan, metode yang digunakan, dan dampak nyata yang dihasilkan. Setiap project dilengkapi tautan ke repository GitHub dan demo jika ada. Bagian Tools menampilkan semua teknologi yang kamu kuasai, dan bagian Contact menyediakan cara mudah bagi orang yang tertarik untuk menghubungimu.
+Saya membangun beberapa infrastruktur website portofolio data analyst terdiri dari beberapa Bagian:
+
+**ABOUT** ---> Nama,disiplin ilmu,Riwayat hidup
+**SKILL** ---> Latar Belakang,Karir,Pendidikan dan kemampuan teknis
+**Education** ---> Latar Belakang pendidikan
+**Sertificate** ---> Myskill.DQLAB,KOMDIGI,DICODING
+**Project** ---> Teori,tools,metode,implementasi
+**Organisasi** ---> Pengalaman,pengabdian,Dampak
+**Contact** ---> media sosial header
+
 
 > **GitHub Pages**
 
@@ -12,7 +19,7 @@ Bagian Projects adalah yang paling krusial — menampilkan tiga hingga lima proj
 
 ---
 
-## ✨ Fitur Portfolio
+## ✨ Fitur Project Portfolio
 
 | Fitur | Detail |
 |---|---|
@@ -90,11 +97,11 @@ Tunggu 1–2 menit, lalu buka:
 https://harisariefkamis.github.io
 ```
 
-✅ **Portfolio Anda sudah live!**
+✅ **Gas Portofolio!**
 
 ---
 
-## 🐍 Generate Portfolio dengan Python
+## 🐍 Generate Python
 
 File `generate_portfolio.py` memungkinkan Anda mengupdate data portfolio 
 (nama, skills, projects, dll) tanpa perlu edit HTML manual.
@@ -111,7 +118,7 @@ python generate_portfolio.py
 
 ---
 
-## 🛠 Cara Kustomisasi Manual
+## 🛠 Kustomisasi Manual
 
 Buka `index.html` dan cari bagian berikut:
 
